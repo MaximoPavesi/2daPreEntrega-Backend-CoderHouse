@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const URI = 'mongodb+srv://fedeeribeiro:coderhouse@cluster0.hj7njhs.mongodb.net/preEntrega2?retryWrites=true&w=majority';
+const URI = 'localhost:27017';
 
 (async () => {
     try {
